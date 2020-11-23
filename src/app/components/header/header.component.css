@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+
+}
+.title{
+    color: white;
+
+}
+a{
+    color: white;
+}
